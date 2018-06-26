@@ -1,0 +1,562 @@
+body{
+    /* background-color: green; */
+    background-image: 
+    url(https://media0.giphy.com/media/10kxE34bJPaUO4/200w.webp
+    );
+     /* url(https://media.giphy.com/media/5xaOcLItPhcAnLX2iOs/giphy.gif); */
+     /* background-repeat: no-repeat;  */
+    
+    }
+
+h1{
+ 
+    font-size: 700%;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: blue;
+   font-family: 'Righteous', cursive;
+     color: red;
+    font-size:700%;
+    -webkit-animation:colorchange 25s infinite alternate;
+}
+
+@-webkit-keyframes colorchange {
+  0% {
+    
+    color: blue;
+  }
+  
+  10% {
+    
+    color: rgb(29, 219, 29);
+  }
+  
+  20% {
+    
+    color: rgb(18, 108, 243);
+  }
+  
+  30% {
+    
+    color: red;
+  }
+  
+  40% {
+    
+    color: orange;
+  }
+  
+  50% {
+    
+    color: orangered;
+  }
+  
+  60% {
+    
+    color: gold;
+  }
+  
+  70% {
+    
+    color: rgb(48, 240, 10);
+  }
+  80% {
+ 
+    color: rgb(10, 178, 255);
+  }
+  
+  90% {
+ 
+    color: rgb(14, 193, 199);
+  }
+  
+  100% {
+    
+    color: rgb(173, 27, 209);
+  }
+}
+
+
+h2{
+    font-size: 500%;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    color: red;
+    font-family: 'Righteous', cursive;
+    -webkit-animation:colorchange 30s infinite alternate;
+    
+    
+}
+
+@-webkit-keyframes colorchange {
+  0% {
+    
+    color: blue;
+  }
+  
+  10% {
+    
+    color: rgb(29, 219, 29);
+  }
+  
+  20% {
+    
+    color: rgb(18, 108, 243);
+  }
+  
+  30% {
+    
+    color: red;
+  }
+  
+  40% {
+    
+    color: orange;
+  }
+  
+  50% {
+    
+    color: orangered;
+  }
+  
+  60% {
+    
+    color: gold;
+  }
+  
+  70% {
+    
+    color: rgb(48, 240, 10);
+  }
+  80% {
+ 
+    color: rgb(10, 178, 255);
+  }
+  
+  90% {
+ 
+    color: rgb(14, 193, 199);
+  }
+  
+  100% {
+    
+    color: rgb(173, 27, 209);
+  }
+} 
+
+/* img{
+    
+    width: 250px;
+    height: 250px; 
+ } */
+
+/* #pizzaMan{
+  width: 100%;
+  height: 100%; 
+ 
+}     */
+
+
+img[src="assets/pizzaMan.jpeg"] {
+width: 250px;
+height: 250px; 
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
+
+.guide{ 
+    color: red;
+    font-size: 300%;
+    font-family: 'Righteous', cursive;
+    
+    
+}
+.guide:hover{
+    color: green;
+    background-color: red;
+}
+h3{
+    color: yellow;
+    font-size: 600%;
+    font-family: 'Shrikhand', cursive;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+#special{
+    color: red;
+    font-size: 500%;
+    font-family: 'Concert One', cursive;
+}
+
+/* .pizzaName {
+	float: right;
+} */
+
+
+
+.pizzaName{
+         
+    color: red;
+    font-size:400%;
+    font-family: 'Russo One', sans-serif;
+    -webkit-animation:colorchange 40s infinite alternate;
+    
+    
+  }
+  @-webkit-keyframes colorchange {
+    0% {
+      
+      color: blue;
+    }
+    
+    10% {
+      
+      color: rgb(29, 219, 29);
+    }
+    
+    20% {
+      
+      color: rgb(18, 108, 243);
+    }
+    
+    30% {
+      
+      color: red;
+    }
+    
+    40% {
+      
+      color: rgb(28, 241, 39);
+    }
+    
+    50% {
+      
+      color: orangered;
+    }
+    
+    60% {
+      
+      color: gold;
+    }
+    
+    70% {
+      
+      color: rgb(48, 240, 10);
+    }
+    80% {
+   
+      color: rgb(10, 178, 255);
+    }
+    
+    90% {
+   
+      color: yellow;
+    }
+    
+    100% {
+      
+      color: rgb(173, 27, 209);
+    }
+  }
+.description{
+         
+    color: red;
+    font-size:300%;
+    border: 10px solid rgb(23, 184, 44);
+     background-color: white;
+     padding: 20px;
+    -webkit-animation:colorchange 25s infinite alternate;
+    
+    
+  }
+  @-webkit-keyframes colorchange {
+    0% {
+      
+      color: blue;
+    }
+    
+    10% {
+      
+      color: rgb(29, 219, 29);
+    }
+    
+    20% {
+      
+      color: rgb(18, 108, 243);
+    }
+    
+    30% {
+      
+      color: red;
+    }
+    
+    40% {
+      
+      color: orange;
+    }
+    
+    50% {
+      
+      color: orangered;
+    }
+    
+    60% {
+      
+      color: gold;
+    }
+    
+    70% {
+      
+      color: rgb(48, 240, 10);
+    }
+    80% {
+   
+      color: rgb(10, 178, 255);
+    }
+    
+    90% {
+   
+      color: rgb(14, 193, 199);
+    }
+    
+    100% {
+      
+      color: rgb(173, 27, 209);
+    }
+  }
+.price{
+         
+    color: red;
+    font-size:300%;
+    width: 120px; 
+    border: 10px dashed;  
+    word-wrap: break-word;
+    -webkit-animation:colorchange 10s infinite alternate;       
+  }
+  
+
+
+  @-webkit-keyframes colorchange {
+    0% {
+      
+      color: blue;
+    }
+    
+    10% {
+      
+      color: rgb(29, 219, 29);
+    }
+    
+    20% {
+      
+      color: rgb(18, 108, 243);
+    }
+    
+    30% {
+      
+      color: red;
+    }
+    
+    40% {
+      
+      color: orange;
+    }
+    
+    50% {
+      
+      color: orangered;
+    }
+    
+    60% {
+      
+      color: gold;
+    }
+    
+    70% {
+      
+      color: rgb(48, 240, 10);
+    }
+    80% {
+   
+      color: rgb(10, 178, 255);
+    }
+    
+    90% {
+   
+      color: rgb(14, 193, 199);
+    }
+    
+    100% {
+      
+      color: rgb(173, 27, 209);
+    }
+  }
+
+  .firstname{
+      font-size: 300%;
+      color: red;
+  }
+  .lastname{
+      font-size: 300%;
+      color: blue;
+  }
+  .email{
+      font-size: 300%;
+      color: chartreuse;
+  }
+#deal{
+    color: orange;
+    font-size: 300%;
+}
+#street{
+    color: aquamarine;
+    font-size: 200%;
+}
+#map{
+    color: red;
+    font-size: 200%
+}
+#map:hover{
+    color: greenyellow;
+    background-color: plum;
+
+}
+.hours{
+    color: greenyellow;
+    font-size: 200%;
+}
+#credit{      
+
+    color: red;
+    font-size:200%;
+    -webkit-animation:colorchange 10s infinite alternate;
+
+  }
+
+  @-webkit-keyframes colorchange {
+    0% {
+      
+      color: blue;
+    }
+    
+    10% {
+      
+      color: green;
+    }
+    
+    20% {
+      
+      color: greenyellow;
+    }
+    
+    30% {
+      
+      color: red;
+    }
+    
+    40% {
+      
+      color: orange;
+    }
+    
+    50% {
+      
+      color: orangered;
+    }
+    
+    60% {
+      
+      color: gold;
+    }
+    
+    70% {
+      
+      color: rosybrown;
+    }
+    80% {
+   
+      color: salmon;
+    }
+    
+    90% {
+   
+      color: cadetblue;
+    }
+    
+    100% {
+      
+      color: pink;
+    }
+  }
+  #copyright{
+         
+    color: red;
+    font-size:200%;
+    -webkit-animation:colorchange 15s infinite alternate;
+    
+    
+  }
+  @-webkit-keyframes colorchange {
+    0% {
+      
+      color: blue;
+    }
+    
+    10% {
+      
+      color: green;
+    }
+    
+    20% {
+      
+      color: greenyellow;
+    }
+    
+    30% {
+      
+      color: red;
+    }
+    
+    40% {
+      
+      color: orange;
+    }
+    
+    50% {
+      
+      color: orangered;
+    }
+    
+    60% {
+      
+      color: gold;
+    }
+    
+    70% {
+      
+      color: rosybrown;
+    }
+    80% {
+   
+      color: salmon;
+    }
+    
+    90% {
+   
+      color: cadetblue;
+    }
+    
+    100% {
+      
+      color: pink;
+    }
+  }
+
+  
+
+
